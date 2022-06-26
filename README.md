@@ -5,3 +5,6 @@ Tßüpa brek mo sü!
 - kākü
 - tekis
 - bākß
+
+## Þāvtak
+- tokak `py -m tssupa-brek` 
