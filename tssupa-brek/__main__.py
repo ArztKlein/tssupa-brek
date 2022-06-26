@@ -1,8 +1,6 @@
 from colorama import Fore, Back, Style
 from tssuupa import Tßüpa
 
-"Hello, I am the spiral drawer"
-
 def main():
     print(Fore.GREEN + "Tekā, e kā de Tßüpa brekeßt." + Style.RESET_ALL)
     āmaken = tsā("Vetümāk āmaken?")
